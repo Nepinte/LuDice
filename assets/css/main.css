@@ -908,25 +908,25 @@ main {
   .rc_name {
     font-size: 30px;
     border-radius: 50%;
-    max-width: 100px;
+   max-width: 250px;
     max-height: 100px;
   }
   .gc_name {
     font-size: 30px;
     border-radius: 50%;
-    max-width: 100px;
+    max-width: 250px;
     max-height: 100px;
   }
   .bc_name {
     font-size: 30px;
     border-radius: 50%;
-    max-width: 100px;
+    max-width: 250px;
     max-height: 100px;
   }
   .yc_name {
     font-size: 30px;
     border-radius: 50%;
-    max-width: 100px;
+    max-width: 250px;
     max-height: 100px;
   }
   .chatscreen {
